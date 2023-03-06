@@ -8,4 +8,4 @@ Key Features:
 - Advanced Location Intellisense
 - Payment with Stripe
 
-#### Preview: [Live Demo:](https://e-commerce-app-01.onrender.com/)
+#### Preview: [Live Demo:](https://e-comm-shop.onrender.com/)
